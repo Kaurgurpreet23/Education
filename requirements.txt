@@ -1,0 +1,27 @@
+# Core
+numpy
+pandas
+
+# Visualization
+matplotlib
+seaborn
+
+
+# Machine Learning
+scikit-learn
+statsmodels
+
+
+# Jupyter & Development
+jupyter
+notebook
+Google Colab
+ipython
+
+#Microsoft
+Microsoft Word
+
+#Adobe
+Adobe Acrobat
+
+
