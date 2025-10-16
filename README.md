@@ -1,6 +1,6 @@
-# PROJECT TITLE
+#Examining the relationship between the average ACT score and the five socioeconomic predictor variables in the EdGap data set
 
-> Examining the relationship between the average ACT score and the five socioeconomic predictor variables in the EdGap data set
+> 
 
 ---
 
